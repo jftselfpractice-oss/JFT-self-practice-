@@ -1,2 +1,2 @@
 # JFT-self-practice-
-Mock y
+Mock test
